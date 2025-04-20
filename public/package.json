@@ -1,6 +1,0 @@
-{
-  "name": "my-shop",
-  "dependencies": {
-    "stripe": "^12.0.0"
-  }
-}
